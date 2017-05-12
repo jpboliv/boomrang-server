@@ -13,6 +13,7 @@ random = Mood.create(name:"Random")
 
 
 Music.create(link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ", mood: troll)  #troll
+Music.create(link:"https://www.youtube.com/watch?v=0hhz7KSEIAE", mood: troll)  #troll
 Music.create(link:"https://www.youtube.com/watch?v=4zLfCnGVeL4", mood: chill) #depressing
 Music.create(link:"https://www.youtube.com/watch?v=ZaI2IlHwmgQ", mood: pump) #Pump-me-up
 Music.create(link:"https://www.youtube.com/watch?v=mUnMOG8xKsg", mood: random) #random
